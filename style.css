@@ -1,0 +1,65 @@
+body{
+    background-color: hsl(240, 4%, 5%);
+    font-family: 'Kumbh Sans', sans-serif;
+    overflow: hidden;
+    
+}
+.card{
+    background: white;
+    height: 50vh;
+    width: 25vw;
+    position: relative;
+    left: 37vw;
+    border-radius: 25px;
+    bottom: 9vw;
+}
+#vilar{
+    width: 7vw;
+    border-radius: 100%;
+    position: relative;
+    left: 9vw;
+    bottom: 7vh;
+    border: solid 4px rgb(0, 0, 0);
+}
+#capa{
+    width: 25vw;
+    border-radius: 25px 25px 0 0;
+}
+.texto{
+    position: relative;
+    left: 7vw;
+    bottom: 7vh;
+}
+hr{
+    position: relative;
+    right: 7vw;
+}
+p{
+    position: relative;
+    left: 4vw;
+}
+table{
+    position: relative;
+    right: 7vw;
+    top: 2vh;
+}
+td,th{
+    padding-left: 4vw;
+}
+span{
+    font-weight: 400;
+    color: rgb(4, 74, 139);
+}
+p,td{
+    color: gray;
+}
+#bola{
+    position: relative;
+    right: 5vw;
+}
+#bola1{
+    position: relative;
+    top: 90vh;
+    left: 35vw;
+    bottom: 15vw;
+}
